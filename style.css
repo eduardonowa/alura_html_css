@@ -1,3 +1,20 @@
+body{
+    background: #CCCCCC;
+}
+
+h1{
+    text-align: center;
+}
+
 p {
     text-align: center ;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+/* vai procurar so os strongs que estão dentro do em*/
+em strong {
+    color: red;
 }
