@@ -1,7 +1,4 @@
 
-body{
-    
-}
 
 #banner {
     width: 100%;
@@ -10,6 +7,7 @@ body{
 .principal {
     background: #CCCCCC;
     padding: 30px;
+    display: inline-block
 }
 .titulo-principal{
     padding-left: 20px;
